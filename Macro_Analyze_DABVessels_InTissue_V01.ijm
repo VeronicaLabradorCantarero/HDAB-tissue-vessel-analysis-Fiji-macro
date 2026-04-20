@@ -8,7 +8,7 @@
 ////Labkit: https://imagej.net/plugins/labkit/
 ///////a labkit classifier is needed for vessel detection, please set classifier path below (be aware of slash direction):
 
-PathClassifier="S://U_Microscopia//UNIDAD//U_equipments and SW//macros//MACROS TO DO//IreneBarrientos//DABVessels.classifier";
+PathClassifier="PathToClassifier//DABVessels.classifier";
 
 macro "Analyze_DABVessels_InTissue"{
 
